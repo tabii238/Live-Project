@@ -14,7 +14,7 @@ Back End:
 
 Front End:
 
-- Styled the Donation Page: This was the first assignment I completed, and I was tasked with styling the Donation Page beyond what a previous developer had created. 
+- Donation Page Styling: This was the first assignment I completed, and I was tasked with styling the Donation Page beyond what a previous developer had created. 
    - Changed the font of the title of the page and added spacing so it wasn’t visually cramped,
    - Added an image behind the title and above the form, 
    - Added a shadow behind the form and image,
