@@ -1,4 +1,4 @@
-# TechAcademy_LiveProject
+# Live Project
 
 Introduction:
 
