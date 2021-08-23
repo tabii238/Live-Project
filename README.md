@@ -1,11 +1,11 @@
 # TechAcademy_LiveProject
 An overview of the stories I completed during the live project at the Tech Academy 
-
-Introduction:
+**
+Introduction:**
 
 To conclude my boot camp at The Tech Academy, I participated in the development of a software for a local theater company here in Portland. We used Visual Studio as our IDE and the project was an MVC app that utilized the .NET Framework, a setup I’ve grown comfortable with throughout the C# boot camp. For the majority of the project, I developed the Blog Author section, making it easy for an administrator with no tech knowledge to create, edit, and delete authors. I gained experience working on front and back end assignments in this area of the program. Throughout this project I also gained more exposure to version control while working on a team, gained some familiarity working with Azure Devops, and participated in Daily Standups which helped keep my projects on the right track timewise. 
 
-Back End: 
+**Back End: **
 
 - Created blog author model: in this story I created the BlogAuthor model, controller, and CRUD pages so that blog authors could be created, edited, and deleted by the user.
 
@@ -13,7 +13,7 @@ Back End:
 
 - Created a partial view for the index page: Created a partial view in the Project’s Shared folder that displayed the blog authors details such as name, bio, and dates joined/left. On the Index page, I rendered this view foreach author in the database.
 
-Front End:
+**Front End:**
 
 - Styled the Donation Page: This was the first assignment I completed, and I was tasked with styling the Donation Page beyond what a previous developer had created. 
    - Changed the font of the title of the page and added spacing so it wasn’t visually cramped,
